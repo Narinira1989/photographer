@@ -1,10 +1,10 @@
-### <span style="color: #7A9D54">Photographer website</span>
+### <span style="color: grey">Photographer website</span>
 
 
 ---
 ![photo website](photo.png)
 
-####<span style="color: #7C9D96">About this website:</span>
+#### <span style="color: grey">About this website:</span>
 ---
 
 _This is a photography portfolio, which includes both professional photos. In this website you can see the prices and order the service_
